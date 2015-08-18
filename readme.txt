@@ -218,7 +218,7 @@ I'd be happy to help extend the plugin for you. [Get in touch](https://andymoore
 4. Advanced mode - button clicked: The button will change to the color you specify in the settings page once it has been clicked. 
 5. Advanced mode - microphone access: The browser will ask your visitor if it can have access to their microphone; if your website is SSL secure (https) the browser will only ask this once, on unsecure sites (http) it will ask the user to confirm every time they click the button. 
 6. Advanced mode - microphone live status: in the title bar of the browser (right at the very top of the screen) there should be an icon that indicates the microphone is live.
-7. The end result! My phone ringing with a call through my click to call button!
+7. The end result. My phone ringing with a call through my click to call button.
 8. Phone number field from settings page. The number you enter needs to be in international format, for example: +12345678909 or +4478987654321.
 9. Button color, position, corners, transpaency and delay settings. These options give you control over where the button is placed and how it will appear. 
 10. Hours of business schedule. The button will only be visible during the hours of business you set. When a Twilio Number is routed to the plugin any calls outside these hours will be given the option to leave voicemail if it is enabled. 
