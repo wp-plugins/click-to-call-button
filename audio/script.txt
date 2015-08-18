@@ -1,0 +1,36 @@
+IVR Script:
+
+thank-you.mp3
+	Thank you.
+
+hello-and-thank-you-for-calling.mp3
+	Hello and thank you for calling.
+
+about-to-connect.mp3
+	I will try to connect your call.
+
+calls-are-recorded.mp3
+	Please note all calls are recorded.
+
+im-sorry.mp3
+	I'm sorry.
+
+closed.mp3
+	Lines are currently closed. 
+
+no-answer.mp3
+	There was no answer.
+
+cant-connect.mp3
+	I was unable to connect your call.
+
+engaged.mp3
+	That number is busy.
+
+please-leave-your-message-after-the-tone.mp3
+	Please leave your message after the tone.
+	You'll have sixty seconds.
+	Remember to include your name, mobile number and email address.
+
+thank-you-for-calling-and-goodbye.mp3
+	Thank you for calling and goodbye. 
